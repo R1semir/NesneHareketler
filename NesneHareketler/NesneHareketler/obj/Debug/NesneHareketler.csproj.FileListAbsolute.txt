@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\NesneHareketler\NesneHareketler\bin\Debug\NesneHareketler.exe.config
+C:\Users\legen\source\repos\NesneHareketler\NesneHareketler\bin\Debug\NesneHareketler.exe
+C:\Users\legen\source\repos\NesneHareketler\NesneHareketler\bin\Debug\NesneHareketler.pdb
+C:\Users\legen\source\repos\NesneHareketler\NesneHareketler\obj\Debug\NesneHareketler.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\NesneHareketler\NesneHareketler\obj\Debug\NesneHareketler.Form1.resources
+C:\Users\legen\source\repos\NesneHareketler\NesneHareketler\obj\Debug\NesneHareketler.Properties.Resources.resources
+C:\Users\legen\source\repos\NesneHareketler\NesneHareketler\obj\Debug\NesneHareketler.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\NesneHareketler\NesneHareketler\obj\Debug\NesneHareketler.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\NesneHareketler\NesneHareketler\obj\Debug\NesneHareketler.exe
+C:\Users\legen\source\repos\NesneHareketler\NesneHareketler\obj\Debug\NesneHareketler.pdb
